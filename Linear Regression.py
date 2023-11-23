@@ -8,5 +8,5 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
-dataset = pd.read_csv("h/Users/christopheralves/Desktop/UMass Dartmouth/CS362/Homework #2/dataset_Facebook.csv")
+dataset = pd.read_csv("h/Users/dataset_Facebook.csv")
 
